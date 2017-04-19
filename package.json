@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/micheldebree/retropixels-api#readme",
   "dependencies": {
-    "express": "4.15.2"
+    "express": "4.15.2",
+    "jimp": "0.2.27"
   }
 }
